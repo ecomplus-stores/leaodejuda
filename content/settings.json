@@ -1,5 +1,6 @@
 {
   "domain": "leaodejuda.netlify.app",
+  "repository": "ecomplus-stores/leaodejuda",
   "currency_symbol": "R$",
   "primary_color": "#dd0303",
   "theme": {

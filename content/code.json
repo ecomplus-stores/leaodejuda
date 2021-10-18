@@ -1,5 +1,5 @@
 {
-  "css": "card-header {\n  font-size:0;\n}\n\n.card-header::after {\n  content: 'Minha sacola de compras';\n  font-size: 16px;\n}",
+  "css": "",
   "html_head": "",
   "html_body": ""
 }

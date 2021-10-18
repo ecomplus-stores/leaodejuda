@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".minicart__empty .lead {\n    font-size: 0;\n}\n\n.minicart__empty .lead:after {\n    content: 'Sacola vazia ...';\n    display: block;\n    font-size: calc(1.25788rem + .0945vw);\n    margin-bottom: 16px;\n}\n\n.minicart__aside .card-header{\n    font-size: 0;\n}\n\n.minicart__aside .card-header:after {\n    content: \"Minha sacola de compras\";\n    font-size: 16px;\n}\n\n#spa .container h1 {\n    font-size: 0;\n}\n\n#spa .container h1::before {\n    display: block;\n    content: 'Minha sacola';\n    font-size: 2rem;\n    color: var(--secondary);\n    font-weight: 500;\n}\n\n.minicart__btn-cart {\n    font-size: 0;\n}\n\n.minicart__btn-cart::after {\n    content: 'Ver sacola';\n    font-size: 1rem;\n}",
   "html_head": "",
   "html_body": ""
 }

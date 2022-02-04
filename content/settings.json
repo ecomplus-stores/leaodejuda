@@ -1,13 +1,13 @@
 {
   "domain": "leaodejuda.netlify.app",
-  "repository": "ecomplus-stores/leaodejuda",
   "currency_symbol": "R$",
   "primary_color": "#dd0303",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/leaodejuda",
   "logo": "/img/uploads/logo-699688962-1569947593-8b24f35a82304d4b60bf302478f1b3d31569947594-1-.png",
   "name": "leaodejuda",
   "short_name": "meuredentorvive",

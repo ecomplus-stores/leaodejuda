@@ -1,12 +1,12 @@
 {
   "domain": "leaodejuda.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ececf9",
+  "primary_color": "#0000ff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#110707",
   "repository": "ecomplus-stores/leaodejuda",
   "logo": "/img/uploads/logo-699688962-1569947593-8b24f35a82304d4b60bf302478f1b3d31569947594-1-.png",
   "name": "leaodejuda",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/logo-699688962-1569947593-8b24f35a82304d4b60bf302478f1b3d31569947594-1-.png",
   "country_code": "BR",
-  "secondary_color": "#060606",
+  "secondary_color": "#9799c5",
   "icon": "/img/uploads/logo-699688962-1569947593-8b24f35a82304d4b60bf302478f1b3d31569947594-1-.png",
   "store_id": 1173,
   "description": "meuredentorvive",

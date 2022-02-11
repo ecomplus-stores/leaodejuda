@@ -1,7 +1,7 @@
 {
   "domain": "leaodejuda.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#dd0303",
+  "primary_color": "#ececf9",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/logo-699688962-1569947593-8b24f35a82304d4b60bf302478f1b3d31569947594-1-.png",
   "country_code": "BR",
-  "secondary_color": "#ce0d0d",
+  "secondary_color": "#060606",
   "icon": "/img/uploads/logo-699688962-1569947593-8b24f35a82304d4b60bf302478f1b3d31569947594-1-.png",
   "store_id": 1173,
   "description": "meuredentorvive",

@@ -3,10 +3,10 @@
   "currency_symbol": "R$",
   "primary_color": "#0000ff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "darkly",
+    "custom": "niche-game"
   },
-  "bg_color": "#110707",
+  "bg_color": "#2c1be3",
   "repository": "ecomplus-stores/leaodejuda",
   "logo": "/img/uploads/logo-699688962-1569947593-8b24f35a82304d4b60bf302478f1b3d31569947594-1-.png",
   "name": "leaodejuda",

@@ -2,15 +2,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/12.jpg",
+      "img": "/img/uploads/rect8589.png",
       "mobile_img": "/img/uploads/banner1.png"
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-05-20T19:34:08.833Z",
-      "end": "2022-05-23T19:34:08.951Z",
-      "notes": "teste tset"
     },
     {
       "type": "page-title",

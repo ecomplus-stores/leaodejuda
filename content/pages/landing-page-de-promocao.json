@@ -5,6 +5,10 @@
     {
       "type": "custom-html",
       "html": "<p>Testando 1,2,3</p>"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
     }
   ]
 }

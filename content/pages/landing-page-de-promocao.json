@@ -3,12 +3,17 @@
   "body": "Teste teste",
   "sections": [
     {
-      "type": "custom-html",
-      "html": "<p>Testando 1,2,3</p>"
+      "type": "extra-page",
+      "enabled": true
     },
     {
-      "type": "extra-page",
-      "enabled": false
+      "type": "page-title",
+      "title": "Landing Page de Promoção",
+      "description": "teste de página"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ]
 }

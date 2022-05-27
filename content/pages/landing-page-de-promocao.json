@@ -1,4 +1,10 @@
 {
   "title": "Landing Page de Promoção",
-  "body": "Teste teste"
+  "body": "Teste teste",
+  "sections": [
+    {
+      "type": "custom-html",
+      "html": "<p>Testando 1,2,3</p>"
+    }
+  ]
 }

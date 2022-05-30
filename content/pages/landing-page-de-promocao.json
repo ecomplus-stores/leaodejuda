@@ -12,8 +12,23 @@
       "description": "teste de página"
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-05-30T16:50:20.821Z",
+          "end": "2022-06-30T16:51:33.240Z",
+          "img": "/img/uploads/12.jpg",
+          "mobile_img": "/img/uploads/banner1.png"
+        },
+        {
+          "start": "2022-05-30T16:50:51.961Z",
+          "end": "2022-06-30T16:51:13.703Z",
+          "img": "/img/uploads/banner1.png",
+          "mobile_img": "/img/uploads/12.jpg"
+        }
+      ]
     }
   ]
 }

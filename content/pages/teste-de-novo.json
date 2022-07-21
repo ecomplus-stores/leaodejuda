@@ -1,6 +1,6 @@
 {
   "title": "Headphone TWH-CH510",
-  "body": " <div id=\"cabecalho\">\n\n<div id=\"proposta\">\n    <h2 id=\"propostaTitle\">Ouvir música é coisa séria!</h2>\n    <div class=\"cta-container\">\n      <div id=\"propostaSubtitle\">Tenha a melhor qualidade de áudio a seu alcance com o novo TWH-CH510.</div>\n      <button id=\"callToAction\">\n        <a href=\"#\">Quero comprar</a>\n      </button>\n  </div>\n\n</div>\n\n<img src=\"https://avantree.com/pub/media/amasty/blog/sony_blog_banner.jpg\">\n</div>\n\n<div id=\"beneficios\">\n\n  <h3>Qualidade sonora aonde você for</h3>\n\n  <p>O novo TAUH201BK oferece graves potentes e ótimo isolamento acústico. Ideal para o seu dia a dia!</p>\n\n  <h3>Bluetooth de última geração</h3>\n\n  <p>Com a versão bluetooth 5.0 você poderá obter velocidades de transmissão de até 2,2 Mbps de dados.</p>\n\n  <h3>Ouça em mais de um dispositivo</h3>\n\n  <p>Com o seu modo duplo você terá a capacidade de reproduzir áudio ao mesmo tempo em dois dispositivos diferentes.</p>\n\n</div>\n\n<div id=\"ctaContainer\"><a href=#>Saiba mais</a><button id=\"callToAction\"><a href=\"#\">Compre Agora</a></button></div>\n<div id=\"provaSocial\">\n\n  <span>\n    Eleito melhor custo-benefício pelo portal Sound Big.\n    <a href=\"#\">Saiba mais.</a>\n  </span>\n\n</div>",
+  "body": "TWH-CH510",
   "sections": [
     {
       "type": "custom-html",

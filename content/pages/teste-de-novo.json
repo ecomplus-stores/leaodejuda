@@ -1,11 +1,7 @@
 {
-  "title": "teste de novo",
-  "body": "Inserindo conteúdo de teste",
+  "title": "Headphone TAUH201BK/00",
+  "body": " TAUH201BK/00",
   "sections": [
-    {
-      "type": "custom-content",
-      "markdown": "\n\n<div id=\"offerLink\">\n\n<button id=\"offerCta\">Botão teste</button>\n\n![](/img/uploads/rect8589.png)\n\n</div>"
-    },
     {
       "type": "banner-slider",
       "autoplay": 9000,
@@ -26,13 +22,12 @@
       ]
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-07-21T17:17:54.003Z",
-      "end": "2022-07-28T17:17:54.059Z",
-      "offers": [
-        "5f7fa540b2161709fa3d1c3b"
-      ]
+      "type": "custom-html",
+      "html": "<button>Teste</button>"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<div id=\"offerLink\">\n\n<div id=\"offerText\">\n\n<h2 id=\"offerTitle\">Ouvir música é coisa séria!</h2>\n\n<h4 id=\"offerSubtitle\">Conheça o novo TAUH201BK/00</h4>\n\n<p>O novo TAUH201BK oferece graves potentes e isolamento acústico. Ideal para o seu dia a dia!</p>\n\n</div>\n\n<button id=\"offerCta\"><a href=\"#\">Botão teste</a></button>\n\n![](/img/uploads/rect89.png)\n\n</div>"
     }
   ]
 }

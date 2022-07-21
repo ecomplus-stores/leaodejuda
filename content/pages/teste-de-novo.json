@@ -1,7 +1,11 @@
 {
   "title": "teste de novo",
-  "body": "Inserindo conteúdo de teste\n\n<button>Botão teste</button>\n\n<a href=\"#\">\n\n![](/img/uploads/rect8589.png)\n\n</a>",
+  "body": "Inserindo conteúdo de teste",
   "sections": [
+    {
+      "type": "custom-content",
+      "markdown": "<button id=\"offerCta\">Botão teste</button>\n\n<div id=\"offerLink\">\n\n![](/img/uploads/rect8589.png)\n\n</div>"
+    },
     {
       "type": "banner-slider",
       "autoplay": 9000,
@@ -29,10 +33,6 @@
       "offers": [
         "5f7fa540b2161709fa3d1c3b"
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }

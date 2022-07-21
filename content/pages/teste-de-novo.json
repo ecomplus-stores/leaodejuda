@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "custom-content",
-      "markdown": "<button id=\"offerCta\">Botão teste</button>\n\n<div id=\"offerLink\">\n\n![](/img/uploads/rect8589.png)\n\n</div>"
+      "markdown": "\n\n<div id=\"offerLink\">\n\n<button id=\"offerCta\">Botão teste</button>\n\n![](/img/uploads/rect8589.png)\n\n</div>"
     },
     {
       "type": "banner-slider",

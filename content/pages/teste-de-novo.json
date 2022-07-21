@@ -1,6 +1,6 @@
 {
   "title": "teste de novo",
-  "body": "ggjkhkjhjghjfjhgd",
+  "body": "Inserindo conteúdo de teste",
   "sections": [
     {
       "type": "banner-slider",
@@ -8,9 +8,9 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-05-27T20:01:50.502Z",
-          "end": "2022-05-27T20:01:50.589Z",
-          "img": "/img/uploads/12.jpg",
+          "start": "2022-07-21T14:37:37.791Z",
+          "end": "2022-08-11T20:01:50.589Z",
+          "img": "/img/uploads/rect89.png",
           "mobile_img": "/img/uploads/12.jpg"
         },
         {

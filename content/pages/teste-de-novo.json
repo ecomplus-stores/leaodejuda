@@ -1,7 +1,11 @@
 {
-  "title": "Headphone TAUH201BK/00",
+  "title": "Headphone TAUH201BK",
   "body": " TAUH201BK/00",
   "sections": [
+    {
+      "type": "custom-html",
+      "html": "<div id=\"cabecalho\">\n\n  <div id=\"proposta\">\n\n    <h2 id=\"propostaTitle\">Ouvir música é coisa séria!</h2>\n\n    <span id=\"propostaSubtitle\">Tenha a melhor qualidade de áudio a seu alcance com o novo TAUH201BK.</span>\n\n    <button id=\"callToAction\"><a href=\"#\">Quero comprar</a></button>\n\n  </div>\n\n  <img src=\"https://avantree.com/pub/media/amasty/blog/sony_blog_banner.jpg\">\n\n</div>\n\n<div id=\"beneficios\">\n\n  <h3>Qualidade sonora aonde você for</h3>\n\n  <p>O novo TAUH201BK oferece graves potentes e ótimo isolamento acústico. Ideal para o seu dia a dia!</p>\n\n</div>\n<div id=\"provaSocial\">\n\n  <span>\n    Eleito melhor custo-benefício pelo portal Sound Big.\n    <a href=\"#\">Saiba mais.</a>\n  </span>\n\n</div>"
+    },
     {
       "type": "banner-slider",
       "autoplay": 9000,
@@ -11,23 +15,15 @@
           "start": "2022-07-21T14:37:37.791Z",
           "end": "2022-08-11T20:01:50.589Z",
           "img": "/img/uploads/rect89.png",
-          "mobile_img": "/img/uploads/12.jpg"
+          "mobile_img": ""
         },
         {
           "start": "2022-05-27T20:02:28.100Z",
-          "end": "2022-05-27T20:02:28.183Z",
-          "img": "/img/uploads/banner1.png",
-          "mobile_img": "/img/uploads/banner1.png"
+          "end": "2022-08-11T20:02:28.183Z",
+          "img": "/img/uploads/sony_blog_banner.jpg",
+          "mobile_img": ""
         }
       ]
-    },
-    {
-      "type": "custom-html",
-      "html": "<button>Teste</button>"
-    },
-    {
-      "type": "custom-content",
-      "markdown": "<div id=\"offerLink\">\n\n<div id=\"offerText\">\n\n<h2 id=\"offerTitle\">Ouvir música é coisa séria!</h2>\n\n<h4 id=\"offerSubtitle\">Conheça o novo TAUH201BK/00</h4>\n\n<p>O novo TAUH201BK oferece graves potentes e isolamento acústico. Ideal para o seu dia a dia!</p>\n\n</div>\n\n<button id=\"offerCta\"><a href=\"#\">Botão teste</a></button>\n\n![](/img/uploads/rect89.png)\n\n</div>"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "teste de novo",
-  "body": "Inserindo conteúdo de teste",
+  "body": "Inserindo conteúdo de teste\n\n<button>Botão teste</button>\n\n[\\#](#)\n\n<a href=\"#\">\n\n![](/img/uploads/rect8589.png)\n\n</a>",
   "sections": [
     {
       "type": "banner-slider",
@@ -19,6 +19,15 @@
           "img": "/img/uploads/banner1.png",
           "mobile_img": "/img/uploads/banner1.png"
         }
+      ]
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-07-21T17:17:54.003Z",
+      "end": "2022-07-28T17:17:54.059Z",
+      "offers": [
+        "5f7fa540b2161709fa3d1c3b"
       ]
     }
   ]

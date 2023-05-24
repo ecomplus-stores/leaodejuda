@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "cosmo",
     "custom": "_"
   },
   "bg_color": "#039cdd",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "font_family": "Roboto",
   "favicon": "/img/uploads/logo-699688962-1569947593-8b24f35a82304d4b60bf302478f1b3d31569947594-1-.png",
-  "icons_font": "_",
+  "icons_font": "bootstrap-icons",
   "country_code": "BR",
   "secondary_color": "#6166ff",
   "icon": "/img/uploads/logo-699688962-1569947593-8b24f35a82304d4b60bf302478f1b3d31569947594-1-.png",

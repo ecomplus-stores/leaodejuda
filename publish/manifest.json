@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.36f113c5444db262a6c63fc885f16d7e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.5c52ff75d65616bff1222c5e532d6a2d.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.90ffc3102481ee992db895e9d1111f31.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.3e2ca4601cbce07952a7cf573a4eff10.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.5dcf1e9cf25c690e5cba454de8f12397.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "leaodejuda - loja de teste (Wisley)",
+  "short_name": "meuredentorvive",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "meuredentorvive",
+  "background_color": "#039cdd",
+  "theme_color": "#000000"
+}

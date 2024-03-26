@@ -23,9 +23,14 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/autores?Autores"
+    ],
     "random": 6,
     "full_width": false
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
